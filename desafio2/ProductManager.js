@@ -26,8 +26,11 @@ class ProductManager{
     updateProduct = async(id, campo, dato) => {
         const products = await this.getProducts()
         const product = products[this.findProduct(id)]
-        product[campo] = dato
-        this.updateJSON()
+        if (product[campo]){
+            product[campo] = dato
+            this.updateJSON()
+        }
+        else return console.log("Error: Campo no encontrado")
     }
 
 
