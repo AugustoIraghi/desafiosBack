@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "nombre": "GT 1030 VGA MSI GEFORCE 2G LP OC DDR4",
+        "marca": "MSI",
+        "precio": 71000,
+        "stock": 3,
+        "imagen": "https://i.postimg.cc/t46QX2wN/1.jpg" ,
+        "descripcion": "Coolers: 1 Pci Express: 3.0 DirectX: 12 OpenGl: 4.5 Capacidad: 2 Gb Memoria: DDR4 Bits: 64 Vel. Gpu: 1189 MHz / 1430 MHz (Boost) Sli / Crossfire: No Alimen. Suple: No Fuente optima: 500 Watts o mas Consumo: 20 W Vga: No Dvi-D: No Hdmi: 1 Display Port: 1 Peso: 131 g Dimensiones: 150 x 69 x 19 mm",
+        "categoria":"Placa de video"
+    },
+    {
+        "id": 2,
+        "nombre": "GeForce RTX 3080 GAMING Z TRIO 10G LHR",
+        "marca": "MSI",
+        "precio": 295000,
+        "stock": 5,
+        "imagen": "https://i.postimg.cc/28MNRPc5/2.jpg",
+        "descripcion": "NÚCLEOS: 8704 Unidades, MEMORIA: 10GB GDDR6X, MOTOR DE GRÁFICOS: NVIDIA GeForce RTX 3080, NORMA BUS: PCI Express Gen 4, INTERFAZ DE MEMORIA: 320-bit, VELOCIDAD CLOCK NÚCLEO (MHZ): Boost: 1830 MHz, VELOCIDAD CLOCK MEMORIA (MHZ): 19 Gbps, MÁXIMO DE PANTALLAS: 4, TECNOLOGÍA G-SYNC: Sí, ADAPTIVE VERTICAL SYNC: Sí, SALIDA: DisplayPort x 3 (v1.4a). HDMI x 1, SOPORTE HDCP: Sí, CONSUMO (W): 370 W, ALIMENTACIÓN RECOMENDADA (W): 750 W, VIRTUAL REALITY READY: Sí, RESOLUCIÓN MÁXIMA DIGITAL: 7680x4320, CONECTORES DE ALIMENTACIÓN: 8-pin x 3, SOPORTE DIRECTX VERSIÓN: 12 API, SOPORTE OPENGL VERSIÓN: 4.6, DIMENSIONES (MM): 323 x 140 x 56mm, PESO: 2342 g",
+        "categoria": "Placa de video"
+    },
+    {
+        "id": 3,
+        "nombre": "GeForce RTX 4070 Ti GAMING OC 12G",
+        "marca": "Gigabyte",
+        "precio": 535000,
+        "stock": 3,
+        "imagen": "https://i.postimg.cc/BZhGN82H/3.jpg",
+        "descripcion": "FUNCIÓN CLAVE, Con tecnología NVIDIA DLSS 3, arco Ada Lovelace ultraeficiente y trazado de rayos completo, Núcleos tensoriales de 4.ª generación: hasta 4 veces más rendimiento con DLSS 3 que con renderizado de fuerza bruta, Núcleos RT de tercera generación: rendimiento de trazado de rayos de hasta 2X, Desarrollado por GeForce RTX™ 4070 Ti, Integrado con interfaz de memoria de 12 GB GDDR6X de 192 bits, Sistema de refrigeración WINDFORCE, Fusión RGB, BIOS doble, Placa trasera de metal de protección, Soporte anti-hundimiento, SISTEMA DE REFRIGERACIÓN WINDFORCE, El sistema de refrigeración WINDFORCE cuenta con tres ventiladores de aspas únicos de 100 mm, giro alternativo, 7 tubos de calor de cobre compuesto, una cámara de vapor que toca directamente la GPU, ventiladores activos 3D y refrigeración de pantalla, que juntos proporcionan una disipación de calor de alta eficiencia.",
+        "categoria": "Placa de video"
+    },
+    {
+        "id": 4,
+        "nombre": "RTX 3070 TI VISION OC 1.0 8GB",
+        "marca": "Gigabyte",
+        "precio": 377000,
+        "stock": 5,
+        "imagen": "https://i.postimg.cc/Sskp1CZ7/4.jpg",
+        "descripcion": "Versión HDMI: 2.1, Número de puertos HDMI: 2, Tipo de interfaz: PCI Express x16 4.0, Cantidad de puertos VGA (D-Sub): 0, Cantidad de puertos DVI-I: 0, Cantidad de DisplayPorts: 2, Versión de DisplayPort: 1.4a, Altura: 55 mm, Profundidad: 320 mm, Ancho: 126 mm, Velocidad de memoria del reloj: 19000 MHz, Ancho de banda de memoria (max): 608 GB/s, Gráficos discretos memoria del adaptador: 8 GB, Tipo de memoria de adaptador gráfico: GDDR6X, Ancho de datos: 256 bit, Conectores de energia suplementario: 2x 8-pines, Suministro de energía al sistema mínimo: 750 W",
+        "categoria": "Placa de video"
+    },
+    {
+        "id": 5,
+        "nombre": "DISCO SSD 480GB SU630 SATA III",
+        "marca": "ADATA",
+        "precio": 13000,
+        "stock": 8,
+        "imagen": "https://i.postimg.cc/KjsSYVmJ/5.jpg",
+        "descripcion": "Línea: Ultimate SU630, Modelo: ASU630SS-480GQ-R, Ancho: 100.45 mm, Altura: 69.85 mm, Profundidad: 7 mm, Peso: 47.5 g, Capacidad: 480 GB, Tecnología de almacenamiento: SSD, Interfaces: SATA III, Aplicaciones: PC, Notebook, Ubicación del disco: Interno, Factor de forma: 2.5 , Con tecnología 3D NAND: Sí",
+        "categoria": "Almacenamiento"
+    },
+    {
+        "id": 6,
+        "nombre": "DISCO SSD 240GB A400 SATA III",
+        "marca": "KINGSTON",
+        "precio": 10000,
+        "stock": 7,
+        "imagen": "https://i.postimg.cc/xTcVZ0P7/6.png",
+        "descripcion": "Línea: A400, Modelo: SA400S37/240G, Interfaces: SATA III, Aplicaciones: PC, Notebook, Ubicación del disco: Interno, Factor de forma: 2.5 , Es resistente a golpes: Sí, Capacidad: 240 GB, Tecnología de almacenamiento: SSD, Caché de datos: 46 MB, Ancho: 100 mm, Altura: 69.9 mm, Profundidad: 7 mm, Peso: 41 g, Con tecnología 3D NAND: Sí, Consumo energético: 0.279 W",
+        "categoria": "Almacenamiento"
+    },
+    {
+        "id": 7,
+        "nombre": "DISCO HDD 1TB BLUE SATA III 64MB",
+        "marca": "WESTERN DIGITAL",
+        "precio": 15000,
+        "stock": 6,
+        "imagen": "https://i.postimg.cc/ydjCMxtq/7.jpg",
+        "descripcion": "Modelo: WD10EZEX, Interfaz: SATA III (6 GB/s), Tamaño del búfer: 64 MB, Velocidad de rotación: 7200 RPM, Capacidad: 1 TB, Tiempos de acceso: 0,6 ms (lectura) / 0,8 ms (escritura), Carga / descarga: 300.000 veces, Consumo de energía: 6,4W (lectura/escritura); 3,7W (detenido); 1W (stand-by/sleep), Dimensiones (al. x prof. x an.): 2,61 x 14,7 x 10,16 cm, Peso: 450 g, Temperatura operativa: 0°C a 60°C, Temperatura no operativa: -40°C a 70°C",
+        "categoria": "Almacenamiento"
+    },
+    {
+        "id": 8,
+        "nombre": "DISCO HDD 2TB BARRACUDA 7200 64MB SATA",
+        "marca": "SEAGATE",
+        "precio": 26000,
+        "stock":5,
+        "imagen": "https://i.postimg.cc/NF0vBYvK/8.png",
+        "descripcion": "Modelo: ST2000DM008, Interfaces: SATA III, Aplicaciones: PC,Servidor,DAS, Ubicación del disco: Interno, Factor de forma: 3.5 , Velocidad de rotación: 7200 rpm, Capacidad: 2 TB, Tecnología de almacenamiento: HDD, Caché de datos: 256 MB, Ancho: 101.85 mm, Profundidad: 20.2 mm, Altura: 146.99 mm, Peso: 415 g, Consumo energético: 4.3 W, Tamaño del búfer: 256MB, Velocidad de transferencia de datos: 600MBps",
+        "categoria": "Almacenamiento"
+    },
+    {
+        "id": 9,
+        "nombre": "DDR4 8GB 3600 VIPER RGB",
+        "marca": "PATRIOT",
+        "precio": 20000,
+        "stock": 7,
+        "imagen": "https://i.postimg.cc/Jhw8J9ZF/9.jpg",
+        "descripcion": "Línea: Viper Steel, Modelo: PVSR48G360C0, Módulos de memoria: 1 x 8 GB, Capacidad total: 8 GB, Color: Gunmetal grey, Capacidad individual: 8 GB, Aplicación: Computadoras de escritorio, Compatibilidades de la memoria: AMD,Intel, Tecnología: DDR4, Formato: UDIMM, Velocidad: 3600 MHz, Es gamer: Sí, Modelo detallado: PVSR48G360C0, Cantidad de pines: 288, Latencia CAS: 18, Voltaje de alimentación: 1.35V",
+        "categoria": "Memoria RAM"
+    },
+    {
+        "id": 10,
+        "nombre": "DDR4 16GB XPG SPECTRIX D50G RGB GREY 3600MHZ",
+        "marca": "ADATA",
+        "precio": 32000,
+        "stock": 4,
+        "imagen": "https://i.postimg.cc/R0cBTXTZ/10.jpg",
+        "descripcion": "Color: Tungsten Grey, Capacidad: 16GB, Dimensiones (L x An x Al): 133.35 x 40 x 8mm, Peso: 46g, Interfaz: DDR4 U-DIMM 3600MHz, Temperatura de operación: 0°C to 85°C, Temperatura de almacenamiento: -55°C to 100°C, Voltaje de operación: 1.35V - 1.5V",
+        "categoria": "Memoria RAM"
+    },
+    {
+        "id": 11,
+        "nombre": "Ddr4 8 Gb 3600 Mhz Rgb Xpg Sprectrix D60G 18I",
+        "marca": "ADATA",
+        "precio": 22000,
+        "stock": 2,
+        "imagen": "https://i.postimg.cc/fLfMMB3r/11.jpg",
+        "descripcion": "Tipo de memoria interna: DDR4, Velocidad de memoria del reloj: 3600 MHz, Diseño de memoria (módulos x tamaño): 1 x 8 GB, Latencia CAS: 19",
+        "categoria": "Memoria RAM"
+    },
+    {
+        "id": 12,
+        "nombre": "16GB DDR5 5600 MHZ XPG LANCER RGB BLACK",
+        "marca": "XPG",
+        "precio": 49000,
+        "stock": 4,
+        "imagen": "https://i.postimg.cc/htNDsJWp/12.jpg",
+        "descripcion": "Memory Type DDR5, Form Factor U-DIMM, Color Black, Capacity 16GB, Speeds 5600MT/s, CAS Latencies 30-40, Operating Voltage 1.25V-1.4V, Operating Temperature 0°C to 85°C",
+        "categoria": "Memoria RAM"
+    },
+    {
+        "id": 13,
+        "nombre": "GAMER 25'' Odyssey G4 240HZ IPS",
+        "marca": "SAMSUNG",
+        "precio": 121000,
+        "stock": 2,
+        "imagen": "https://i.postimg.cc/8P0NkF5N/13.jpg",
+        "descripcion": "Modelo : S25BG40, Color : Negro, Tamaño de panel : 25'', Curvo/Plano : Plano, Colores : 16.7M, Tipo de panel : IPS, Resolución : 1920 x 1080 FHD, Ángulo de vision : 178 grados / 178 grados",
+        "categoria": "Monitor"
+    },
+    {
+        "id": 14,
+        "nombre": "GAMER 24'' ODYSSEY G3 144HZ",
+        "marca": "SAMSUNG",
+        "precio": 89000,
+        "stock": 2,
+        "imagen": "https://i.postimg.cc/dt1JKRJ5/14.jpg",
+        "descripcion": "Tamaño de Pantalla: 24´´, Tecnología: LED, Resolución de pantalla: 1080p, Relación de aspecto: 16:9, Camara: No, Contraste: 3,000:1(Typ.), Parlantes integrados: No, Medidas: 541.9 x 494.0 x 265.7 mm, Conexiones: HDMI, Conexiones HDMI: Sí, Entrada VGA: No, Modelo: LF24G35TFWLXZB",
+        "categoria": "Monitor"
+    },
+    {
+        "id": 15,
+        "nombre": "VG248QG GAMER 24'' BLACK TN 165HZ AUDIO",
+        "marca": "ASUS",
+        "precio": 150000,
+        "stock": 1,
+        "imagen": "https://i.postimg.cc/BbZ4bHHQ/15.jpg",
+        "descripcion": "Este monitor de 24'' te va a resultar cómodo para estudiar, trabajar o ver una película en tus tiempos de ocio. Asimismo, su resolución de 1920 x 1080 te permite disfrutar de momentos únicos gracias a una imagen de alta fidelidad. Una de sus virtudes es que posee pantalla antirreflejo, de esta manera no verás reflejado lo que está detrás de vos y vas a evitar forzar tu vista para enfocar el contenido. Su tiempo de respuesta de un milisegundo lo hace ideal para gamers y cinéfilos porque es capaz de mostrar imágenes en movimiento sin halos o bordes borrosos.",
+        "categoria":"Monitor"
+    },
+    {
+        "id": 16,
+        "nombre": "GAMING ELITE 27'' XG270QG",
+        "marca": "VIEWSONIC",
+        "precio": 415000,
+        "stock": 1,
+        "imagen": "https://i.postimg.cc/D0CFX0PQ/16.jpg",
+        "descripcion": "Modelo : XG270Q, GP/N : VS17963, UPC : 766907004793, Color : Negro, Tamaño de panel : 27'', Curvo/Plano : Plano, Colores : 16.7M, Tipo de panel : IPS, Resolución : 2,560 x 1,440 QHD, Brillo(Max) : 350cd/m2, Ángulo de vision : 178 grados / 178 grados, Parlantes : 2W x 2, Conectividad : 1 x Display Port, 1 x HDMI, 1 x miniplug, Frecuencia de actualizacion : 165 Hz, , Tiempo de respuesta (ms) : 1 ms, Consumo : 65W (máximo), Voltaje : 100-240 V, 50/60 Hz, Inclinación : -5º / 20º, Giratorio : 60º, Pivote : No, Ajuste en altura : 120mm, VESA : 100 x 100 mm, Bloqueo Kensington : Si, Freesync/Gsync : G-Sync",
+        "categoria": "Monitor"
+    },
+    {
+        "id": 17,
+        "nombre": "RYZEN 7 7700X",
+        "marca": "AMD",
+        "precio": 165000,
+        "stock": 3,
+        "imagen": "https://i.postimg.cc/sgGyMVQS/17.jpg",
+        "descripcion": "N.° de núcleos de CPU: 8, N.° de subprocesos: 16, Reloj de aumento máx.: Hasta 5.4GHz, Reloj base: 4.5GHz, Caché L1 total: 512KB, Caché L2 total: 8MB, Caché L3 total: 32MB, TDP/TDP predeterminado: 105W, Desbloqueados : Sí, Paquete: AM5, Solución térmica: Not included, Temp. máx.: 95°C, Modelo de gráficos: AMD Radeon™ Graphics, N.° de núcleos de GPU: 2, Frecuencia de gráficos: 2200 MHz, GPU básica: 400 MHz",
+        "categoria": "Microprocesador"
+    },
+    {
+        "id": 18,
+        "nombre": "I9 12900F 1700",
+        "marca": "INTEL",
+        "precio": 208000,
+        "stock": 2,
+        "imagen": "https://i.postimg.cc/vBsQRpmn/18.jpg",
+        "descripcion": "16 núcleos y 24 hilos, Velocidad de reloj de núcleo P de 2,4 GHz, Frecuencia turbo máxima de 5,1 GHz, Zócalo LGA 1700, Memoria caché de 30 MB, Memoria DDR5-4800 de doble canal, Arquitectura de núcleo híbrido",
+        "categoria": "Microprocesador"
+    },
+    {
+        "id": 19,
+        "nombre": "RYZEN 5 5600G AM4",
+        "marca": "AMD",
+        "precio": 85000,
+        "stock": 3,
+        "imagen": "https://i.postimg.cc/SQVm51bX/19.jpg",
+        "descripcion": "Modelo : 5600G, Modelo alfanumérico : 100-100000252BOX, UPC : 730143313414, GPU integrado : Radeon Graphics, Caché : 16 MB Cantidad de núcleos de CPU : 6, Hilos : 12, Tipos de memoria RAM soportadas : DDR4, Socket : AM4, Frecuencia mínima de reloj : 3,9 GHz, Frecuencia máxima de reloj : 4,4 GHz, Desbloqueado para OC : Si, TDP : 65W",
+        "categoria": "Microprocesador"
+    },
+    {
+        "id": 20,
+        "nombre": "I5 12400 12VA 1700",
+        "marca": "INTEL",
+        "precio": 118000,
+        "stock": 3,
+        "imagen": "https://i.postimg.cc/1z69j9yP/20.jpg",
+        "descripcion": "Frecuencia: 2.5 GHz, Frecuencia turbo: 4.4 GHz, Caché: 18 MB, Tipos de memoria: DDR4-3200, Tipos de memoria: DDR5-4800, Gráficos del procesador: Intel UHD 730, , Núcleos: 6, Cooler: Si",
+        "categoria": "Microprocesador"
+    }
+]
