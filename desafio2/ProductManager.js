@@ -2,6 +2,8 @@ import fs from 'fs';
 
 
 class ProductManager{
+    #path
+    #format
     constructor(path){
         this.#path = path
         this.#format = "utf-8"
