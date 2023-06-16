@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(189, 199, 196);
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(189, 199, 196);
+}
+
+th{
+    background-color: rgb(189, 199, 196);
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+td{
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
